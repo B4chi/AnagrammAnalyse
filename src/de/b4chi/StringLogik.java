@@ -1,3 +1,5 @@
+package de.b4chi;
+
 import java.util.Random;
 
 /**
